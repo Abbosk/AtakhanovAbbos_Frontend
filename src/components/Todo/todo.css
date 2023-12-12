@@ -1,0 +1,13 @@
+.ant-layout-content{
+    padding: 10px 0;
+}
+
+.ant-btn{
+    width: 100%;
+}
+
+.title-btn{
+    width: 100%;
+    margin-bottom: 15px;
+    justify-content: space-between;
+}
